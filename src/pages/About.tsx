@@ -57,15 +57,13 @@ const About = () => {
               style={{ backgroundImage: `url(${Beto})` }}
             ></div>
             <div className="mt-20">
-              <h3 className="text-xl font-semibold text-center">
-                Ernestine Peng
-              </h3>
+              <h3 className="text-xl font-semibold text-center">Name</h3>
               <p className="text-center text-sm text-gray-600">
                 Vision & Financials
               </p>
               <p className="mt-4 text-gray-700 text-center">
-                Ernestine steers the vision and financial direction of Roomie
-                HQ, ensuring the company’s future is bright and sustainable.
+                Name steers the vision and financial direction of Roomie HQ,
+                ensuring the company’s future is bright and sustainable.
               </p>
             </div>
           </div>
@@ -88,17 +86,17 @@ const About = () => {
             </div>
           </div>
 
-          {/* Seamus */}
+          {/* Name */}
           <div className="relative bg-white shadow-lg p-6 rounded-lg mt-24 md:mt-0">
             <div
               className="absolute w-32 h-32 -top-16 left-1/2 transform -translate-x-1/2 bg-center bg-cover rounded-full"
               style={{ backgroundImage: `url(${Beto})` }}
             ></div>
             <div className="mt-20">
-              <h3 className="text-xl font-semibold text-center">Seamus</h3>
+              <h3 className="text-xl font-semibold text-center">Name</h3>
               <p className="text-center text-sm text-gray-600">Marketing</p>
               <p className="mt-4 text-gray-700 text-center">
-                Nice leads our marketing efforts, creating strategies that
+                Name leads our marketing efforts, creating strategies that
                 connect Roomie HQ with the right audience at the right time.
               </p>
             </div>
