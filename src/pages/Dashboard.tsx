@@ -50,11 +50,10 @@ const Dashboard: React.FC = () => {
         ))}
       </main>
 
-      {/* Mock API
+      {/* Mock API */}
       <div className="flex mt-3">
         <Houses />
       </div>
-      */}
     </div>
   );
 };
