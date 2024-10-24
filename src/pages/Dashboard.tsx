@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import Houses from "../components/Houses";
 
 const Dashboard: React.FC = () => {
   const [showModal, setShowModal] = useState(false);
@@ -48,6 +49,12 @@ const Dashboard: React.FC = () => {
           </div>
         ))}
       </main>
+
+      {/* Mock API
+      <div className="flex mt-3">
+        <Houses />
+      </div>
+      */}
     </div>
   );
 };

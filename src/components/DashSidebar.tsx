@@ -35,7 +35,7 @@ const DashboardSidebar: React.FC = () => {
       <div className="flex justify-start mb-4">
         <button onClick={toggleSidebar} className="focus:outline-none">
           {}
-          <FaBars className="text-gray-600 hover:text-primary" size={24} />
+          <FaBars className="text-gray-600 hover:text-primary" size={28} />
         </button>
       </div>
 
