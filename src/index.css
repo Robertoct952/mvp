@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.swiper-pagination-bullet {
+    background: #9E4EDF; /* Use your primary color */
+    opacity: 0.7;
+}
+  
+.swiper-pagination-bullet-active {
+    background: #6A2DBD; /* Use a slightly darker shade for the active bullet */
+    opacity: 1;
+}
